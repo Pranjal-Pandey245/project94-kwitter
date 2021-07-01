@@ -1,3 +1,10 @@
 #bg{
     background-image: url("1.png");
 }
+
+.room_name
+{
+	cursor: pointer;
+	font-size: 20px;
+    background-color: white;
+}
